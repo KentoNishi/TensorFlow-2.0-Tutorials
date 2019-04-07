@@ -6,7 +6,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from tensorflow import feature_column
 from tensorflow.keras import layers
+import seaborn as sns
 from sklearn.model_selection import train_test_split
+import time
+import os
 print(tf.__version__)
 
 URL = 'https://storage.googleapis.com/applied-dl/heart.csv'

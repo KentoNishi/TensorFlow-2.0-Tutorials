@@ -8,6 +8,8 @@ from tensorflow import feature_column
 from tensorflow.keras import layers
 import seaborn as sns
 from sklearn.model_selection import train_test_split
+import time
+import os
 print(tf.__version__)
 
 imdb = keras.datasets.imdb

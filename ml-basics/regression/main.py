@@ -8,6 +8,8 @@ from tensorflow import feature_column
 from tensorflow.keras import layers
 import seaborn as sns
 from sklearn.model_selection import train_test_split
+import time
+import os
 print(tf.__version__)
 
 dataset_path = keras.utils.get_file("auto-mpg.data", "http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data")
