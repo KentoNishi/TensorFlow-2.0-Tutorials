@@ -1,5 +1,5 @@
 # TensorFlow 2.0 Tutorials
-A collection of TensorFlow programs, following the official [TensorFlow 2.0 Tutorials](https://www.tensorflow.org/alpha)
+A collection of TensorFlow programs, following the official [TensorFlow 2.0 Tutorials](https://www.tensorflow.org/alpha).
 
 ## Requirements
 The programs contain any combination of the following libraries.
